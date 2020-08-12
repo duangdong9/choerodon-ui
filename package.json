@@ -91,7 +91,7 @@
     "resize-observer-polyfill": "^1.5.1",
     "rmc-feedback": "^1.0.0",
     "string-template": "^1.0.0",
-    "tslib": "^1.9.3",
+    "tslib": "^2.0.1",
     "warning": "~4.0.3",
     "xhr-mock": "^2.5.1"
   },
