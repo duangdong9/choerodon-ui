@@ -143,7 +143,7 @@
     "colorful": "^2.1.0",
     "commander": "^2.11.0",
     "cross-env": "^5.2.1",
-    "css-loader": "^3.2.0",
+    "css-loader": "^5.2.1",
     "css-split-webpack-plugin": "^0.2.6",
     "dekko": "^0.2.1",
     "enquire-js": "^0.2.1",
